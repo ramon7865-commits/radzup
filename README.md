@@ -1,0 +1,2 @@
+# radzup
+Setting Up Git
